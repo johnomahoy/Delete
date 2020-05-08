@@ -1,4 +1,4 @@
-#Delete
+
 
 Delete the company using the companyID
 
