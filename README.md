@@ -1,4 +1,4 @@
-# Company
+# Delete
 
 The script will delete all the data inside of the array using the companyID
 
