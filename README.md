@@ -1,3 +1,5 @@
+#Delete
+
 Delete the company using the companyID
 
 The script will delete all the data inside of the array 
