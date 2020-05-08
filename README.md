@@ -1,9 +1,12 @@
+# Company
 
+The script will delete all the data inside of the array using the companyID
 
-Delete the company using the companyID
+For each value inside of the array it will fetch the data that will be deleted
 
-The script will delete all the data inside of the array 
+If you have only a csv or excel file you need to convert the file
 
-For each value inside of the array it will fetch the data that will be deleted 
 
 Developed by: Darent
+
+Check the script for more info. 
